@@ -1,8 +1,8 @@
 <?php
 
-$host = 'eurekabankdb.mysql.database.azure.com';
-$username = 'eurekabank@eurekabankdb';
-$password = '3ur3K4B@nk';
+$host = 'rmsmysql.mysql.database.azure.com';
+$username = 'rmsadmin@rmsmysql';
+$password = 'Pa$$w0rd';
 $db_name = 'eurekabank';
 
 $cn = mysqli_init();
